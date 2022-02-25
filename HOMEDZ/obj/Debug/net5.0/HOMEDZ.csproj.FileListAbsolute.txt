@@ -1,0 +1,16 @@
+C:\Users\Verein33\RiderProjects\HOMEDZ\HOMEDZ\bin\Debug\net5.0\HOMEDZ.exe
+C:\Users\Verein33\RiderProjects\HOMEDZ\HOMEDZ\bin\Debug\net5.0\HOMEDZ.deps.json
+C:\Users\Verein33\RiderProjects\HOMEDZ\HOMEDZ\bin\Debug\net5.0\HOMEDZ.runtimeconfig.json
+C:\Users\Verein33\RiderProjects\HOMEDZ\HOMEDZ\bin\Debug\net5.0\HOMEDZ.runtimeconfig.dev.json
+C:\Users\Verein33\RiderProjects\HOMEDZ\HOMEDZ\bin\Debug\net5.0\HOMEDZ.dll
+C:\Users\Verein33\RiderProjects\HOMEDZ\HOMEDZ\bin\Debug\net5.0\ref\HOMEDZ.dll
+C:\Users\Verein33\RiderProjects\HOMEDZ\HOMEDZ\bin\Debug\net5.0\HOMEDZ.pdb
+C:\Users\Verein33\RiderProjects\HOMEDZ\HOMEDZ\obj\Debug\net5.0\HOMEDZ.csprojAssemblyReference.cache
+C:\Users\Verein33\RiderProjects\HOMEDZ\HOMEDZ\obj\Debug\net5.0\HOMEDZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Verein33\RiderProjects\HOMEDZ\HOMEDZ\obj\Debug\net5.0\HOMEDZ.AssemblyInfoInputs.cache
+C:\Users\Verein33\RiderProjects\HOMEDZ\HOMEDZ\obj\Debug\net5.0\HOMEDZ.AssemblyInfo.cs
+C:\Users\Verein33\RiderProjects\HOMEDZ\HOMEDZ\obj\Debug\net5.0\HOMEDZ.csproj.CoreCompileInputs.cache
+C:\Users\Verein33\RiderProjects\HOMEDZ\HOMEDZ\obj\Debug\net5.0\HOMEDZ.dll
+C:\Users\Verein33\RiderProjects\HOMEDZ\HOMEDZ\obj\Debug\net5.0\ref\HOMEDZ.dll
+C:\Users\Verein33\RiderProjects\HOMEDZ\HOMEDZ\obj\Debug\net5.0\HOMEDZ.pdb
+C:\Users\Verein33\RiderProjects\HOMEDZ\HOMEDZ\obj\Debug\net5.0\HOMEDZ.genruntimeconfig.cache

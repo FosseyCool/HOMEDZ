@@ -1,4 +1,5 @@
 ﻿using System;
+using DZ;
 
 namespace HOMEDZ
 {
@@ -6,7 +7,9 @@ namespace HOMEDZ
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var communication = new Communication();
+            communication.Dialog();
+            communication.RemoveAllBooking();
         }
     }
 }
